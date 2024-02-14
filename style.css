@@ -1,0 +1,1100 @@
+html{
+    margin: 0px ;
+
+    padding: 0px;
+
+    box-sizing: border-box;
+
+    font-size: 62.5%;
+}
+
+body{
+     background-color: #f7f7fa;
+}
+
+
+/* navbar  */
+
+#hamburger{
+    display: none;
+}
+
+#navbar{
+    background-color: #feee00;
+    padding: 1.3rem 1.7rem;
+
+}
+
+#noon{
+    /* background-color: pink; */
+    width: 9rem;
+    height: 2.5rem;
+}
+
+#noon-img{
+    width: 95%;
+    margin: auto 0px;
+    display: block;
+}
+
+#country{
+    width: 12%;
+}
+
+
+#deliver{
+    color: black;
+    font-size: 1.6rem;
+}
+
+#dubai{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#form{
+    width: 85rem;
+    /* background-color: black; */
+    height: 4rem;
+}
+
+#search{
+    width: 100%;
+    height: 100%;
+    font-size: 1.5rem;
+    padding:  0.5rem;
+    border: 0px;
+    border-radius: .5rem;
+}
+
+#nav-list{
+    width: 35rem;
+    margin: 0px;
+    
+/* background-color: red; */
+font-size: 1.6rem;
+list-style: none;
+}
+
+.LWC{
+    color: #404553;
+}
+
+.straight{
+    width: .1rem;
+    background-color: gray;
+    height: 2rem;
+}
+
+/* navbar  */
+
+
+/* additional  */
+
+
+/* addition-1  */
+
+#additional{
+    width: 100%;
+    /* height: 2.8rem; */
+
+}
+
+#addition-1{
+padding: 1rem;
+border-bottom: 1px solid rgb(226, 229, 241);
+
+}
+
+#all-categories{
+    width: 11%;
+
+    padding: 1rem 0.6rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+#mid-line{
+    width: 0.01rem;
+    height: 4.2rem;
+    background-color: gray;
+}
+
+#all-items{
+       padding: 1rem 0.6rem;
+
+    width: 78%;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+#noon-one{
+    width: 12%;
+
+    padding:  0.3rem;
+    border-radius: 0.5rem;
+    border-right: 0.2rem solid green;
+    border-left: 0.2rem solid green;
+    border-bottom:0.2rem solid red ;
+    border-top:0.2rem solid red ;
+
+
+
+}
+
+#noon-one-img{
+    width: 4rem;
+    height: 2.8rem;
+    background-color: #f3e008;
+    border-left: 0.2rem solid red;
+    border-right: 0.2rem solid red;
+    border-top: 0.2rem solid green;
+    border-bottom: 0.2rem solid green;
+    border-radius: 2rem;
+}
+
+#one{
+    width: 3rem;
+    height: 2.8rem;
+}
+
+#noon-one-start{
+    font-weight: bold;
+}
+
+#free-del{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#r-arrow{
+    background-color: #f19b55;
+    width: 1rem;
+    /* text-align: center; */
+    border-radius: 3rem;
+    padding: 0rem 1rem 0rem 0.5rem;
+}
+
+/* addition-1  */
+
+
+
+/* addition-2  */
+
+#get-15{
+    width: 96.5%;
+}
+
+#get-15-img{
+    width: 100%;
+}
+
+#carousels-main{
+    width: 100%;
+}
+
+#carousels{
+    width: 96.5%;
+
+}
+#carousel-1{
+    width: 70%;
+    
+}
+
+#carouselExample{
+    width: 100%;
+}
+
+#carousel-2{
+    width: 15%;
+}
+
+#carousel-2-img{
+
+width: 100%;
+}
+   
+#carousel-3{
+    width: 15%;
+}
+
+#carousel-3-img{
+    width: 100%;
+    }
+
+
+/* addition-2  */
+
+
+/* addition 3  */
+
+#products{
+    width: 96.5%;
+    padding: 1rem;
+    background-color: #feeaea;
+}
+
+.producted{
+    width: 7.5%;
+    /* background-color: #fdb7c5; */
+
+}
+
+.product-img{
+    width: 100%;
+}
+
+/* addition 3  */
+
+
+
+/* additional */
+
+
+
+
+/* main  */
+
+
+/* section one  */
+
+
+#ten-cards{
+    margin-top: 1rem;
+    width: 92%;
+   
+}
+
+#ten-cards-first{
+    width: 33%;
+    padding: 1rem;
+}
+
+#ten-card-first-body{
+    width: 100%;
+}
+.body-parts{
+    /* width: 10%; */
+    /* height: 10%; */
+}
+
+.clean-img-div{
+    width: 50%;
+}
+
+.body-images{
+    width: 48.5%;
+}
+
+.body-image-one{
+    width: 100%;
+}
+
+
+#ten-cards-second{
+    width: 33%;
+    background-color: #fcd5d5;
+    padding: 1rem;
+}
+
+
+#time{
+    font-size: 1.8rem;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 0rem 0.7rem;
+}
+
+
+#deal-button{
+    font-size: 1.8rem ;
+}
+
+.btn-dark{
+    color: red;
+    font-weight: bold;
+    width: 10rem;
+    height: 3.5rem;
+}
+
+.body-parts{
+width: 49% ;
+}
+
+.first-part-head{
+    font-size: 1.2rem;
+    background-color: #e33c4b;
+    width: 80%;
+    padding: 0.4rem 0.6rem;
+    border-radius: 0rem 1rem 0rem 1rem;
+}
+
+.clean-img-div{
+    width:100%;
+}
+
+.cleaning-img{
+    width: 40%;
+}
+
+.bottom-part{
+    background-color: #ececec;
+}
+
+.bottom-text{
+    font-size: 1.3rem;
+
+}
+.cut-price{
+    color: red;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.special-price{
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+
+
+    #ten-cards-third{
+        width: 33%;
+        padding: 1rem;
+    }
+
+    #ten-card-third-body{
+        width: 100%;
+    }
+
+    
+
+    .body-images-third{
+        width: 99.5%;
+    }
+
+
+/* section one  */
+
+
+/* section 2 */
+
+#main-sec-two{
+    /* background-color: #e5e5e5; */
+}
+
+ #sec-two-main-heading{
+    width: 92%;
+    padding: 1rem;
+ }
+
+ #sec-two-body{
+    width: 93%;
+    background-color: #e5e5e5;
+    padding: 1rem;
+ }
+
+ .recommended-items{
+width: 16.2%;
+background-color: #f8f8f9;
+padding: 1rem 0rem;
+ }
+
+ .recommended-items-img-div{
+    width: 80%;
+ }
+
+ .recommended-items-img{
+    width: 100%;
+ }
+
+ .rate{
+
+ }
+
+ .rating{
+width: 40%;
+border-radius: 20px;
+ }
+
+ .rate-bold{
+    font-size: 1.5rem;
+    font-weight: bold;
+ }
+
+ .rate-star{
+    color: green;
+
+ }
+
+ .text-6{
+    font-size: 1.2rem;
+    font-weight: 500;
+ }
+
+ .cart-icon{
+    padding: .4rem;
+    width: 2.8rem;
+    border-radius: 30px;
+    background-color: white;
+ }
+
+ .aed{
+    color: #4f4f4f;
+ }
+
+.f-690{
+    font-size: 1.5rem;
+    font-weight: bold;
+} 
+
+.f-099{
+    color: #8a8a8a;
+}
+
+.dis-rate{
+    color: rgb(46, 255, 46); font-weight: bold;
+}
+
+
+
+/* section 2 */
+
+/* section three  */
+
+#valentine{
+    width: 93%;
+    background-color: #ffeee5;
+    padding: 1rem;
+}
+
+.valen-img-div{
+
+    width: 13.5%;
+}
+
+.valen-img{
+    width: 100%;
+}
+
+/* section three  */
+
+
+
+/* section four  */
+
+.head-btn{
+    width: 8%;
+    border: 1px solid black !important;
+    font-size: 1.4rem !important;
+    font-weight: bold !important;
+}
+
+/* section four  */
+
+
+
+/* section five  */
+
+#only-deals{
+    width: 93%;
+    background-color: #e1effa;
+    padding: 1rem;
+}
+
+
+.only-deals-four{
+    width: 24%;
+    background-color: white;
+    /* padding: 1rem; */
+}
+
+.only-deals-body-head{
+    width: 70%;
+    font-size: 1.4rem;
+    background-color: #6476b0;
+    border-radius: 0rem 1rem 0rem ;
+    padding: 0.5rem;
+}
+
+.only-deal-img{
+    width: 45%;
+}
+
+.only-deal-info{
+padding: 1rem;
+}
+
+.only-deal-text{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.two-209{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.only-special{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+/* section five  */
+
+
+
+
+/* section ten  */
+
+#TV-appliances{
+    width: 93%;
+    /* background-color: #ffeee5; */
+    padding: 1rem;
+}
+
+/* section ten */
+
+/* section thirty-two  */
+
+
+#emaar-south{
+    width: 93%;
+    padding: 1rem;
+}
+
+#emaar-img{
+    width: 100%;
+}
+
+/* section thirty-two  */
+
+
+/* section thirtythree  */
+
+#universe{
+    width: 93%;
+
+    padding: 1rem;
+}
+
+#universe-img{
+    width: 50%;
+}
+
+/* section thirtythree  */
+
+
+
+/* section thirtyfour  */
+
+#before-foot{
+    width: 93%;
+    padding: 1rem;
+    /* background-color: red; */
+}
+
+.before-text{
+    font-size: 1.5rem;
+}
+
+.readmore{
+    font-size: 1.5rem;
+
+    color: blue;
+}
+
+/* section thirtyfour */
+
+
+/* main  */
+
+
+/* footer  */
+
+ /* footer 1 */
+
+
+#footer-1{
+    width: 100%;
+    padding: 1.5rem 0rem;
+    border-top: 1px solid #cdcccc;
+
+}
+
+.help{
+    width: 60%;
+  
+}
+
+.hp-text{
+    font-size: 1.4rem;
+    color: gray;
+}
+
+.help-center{
+    width: 11%;
+}
+
+.i-icons{
+    font-size: 1.8rem;
+}
+
+.hp-gray{
+    color: gray;
+}
+
+ /* footer 1 */
+
+
+
+
+ /* footer 2 */
+
+ #footer-2{
+    width: 100%;
+    padding: 1.5rem;
+    border-top: 1px solid #cdcccc;
+
+}
+
+.lists{
+    width:13% ;
+}
+
+.footerss-text{
+    font-size: 1.4rem;
+}
+
+
+.aik-16{
+    width: 116px;
+}
+
+ /* footer 2 */
+
+
+
+
+/* footer  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1360  */
+
+@media(max-width :1360px){
+
+    /* html  */
+    
+        html{
+            font-size: 45%;
+        }
+    
+    /* html  */
+    
+    
+    
+    /* navbar  */
+    
+    
+    
+    /* navbar  */
+    
+    /* main  */
+
+    /* .body-parts{
+        height: 27rem;
+    }
+
+    .cleaning-img{
+        width: 45%;
+    } */
+
+    /* main  */
+
+    
+        
+    }
+    
+    /* 1360  */
+
+
+
+
+
+/* 1200  */
+
+@media(max-width :1210px){
+
+    /* html  */
+
+    html{
+        font-size: 50%;
+    }
+
+    /* html  */
+
+
+/* navbar  */
+
+#navbar{
+    background-color: #feee00;
+    padding: 1.3rem 1.7rem;
+
+}
+
+#noon{
+    /* background-color: pink; */
+    width: 9rem;
+    height: 2.5rem;
+}
+
+#noon-img{
+    width: 98%;
+    margin: auto 0px;
+    display: block;
+}
+
+#country{
+    width: 14%;
+}
+
+#nav-list{
+    width: 32rem;
+    margin: 0px;
+    
+/* background-color: red; */
+font-size: 1.6rem;
+list-style: none;
+}
+
+
+
+
+
+#form{
+    width: 65rem;
+    /* background-color: black; */
+    height: 4rem;
+}
+
+
+
+/* navbar */
+
+
+/* additional  */
+
+#all-categories{
+    width: 13%;
+
+    padding: 1rem 0.6rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* additional  */
+
+
+
+
+}
+
+/* 1200  */
+
+
+
+
+
+
+/* 992  */
+
+@media(max-width :992px){
+
+/* html  */
+
+    html{
+        font-size: 40%;
+    }
+
+/* html  */
+
+
+
+/* navbar  */
+
+
+
+/* navbar  */
+
+
+
+    
+}
+
+/* 992  */
+
+
+
+
+
+/* 940  */
+
+@media(max-width :940px){
+
+    /* html  */
+    
+        html{
+            font-size: 32%;
+        }
+    
+    /* html  */
+    
+    
+    
+    /* navbar  */
+    
+    
+    
+    /* navbar  */
+    
+    
+    
+        
+    }
+    
+    /* 940  */
+
+
+
+
+
+
+
+/* 768  */
+
+@media(max-width :768px){
+
+/* html  */
+
+
+    html{
+        font-size: 55%;
+    }
+
+
+
+    /* navbar  */
+
+    #hamburger{
+        /* background-color: black; */
+        color: red;
+        width: 100rem;
+        position: absolute;
+        left: 1rem;
+        display: block;
+        
+        font-size: 2rem;
+    }
+
+    #noon{
+        /* background-color: pink; */
+        width: 12rem;
+        height: 2.5rem;
+    }
+    
+    #noon-img{
+        width: 98%;
+        margin: auto 0px;
+        display: block;
+    }
+
+    #country{
+        display: none;
+    }
+    
+    #palestine{
+        display: none;
+    }
+    
+    #deliver{
+       display: none;
+    }
+    
+    #dubai{
+        display: none;
+    }
+
+    #drop-d{
+        display: none;
+    }
+
+    #nav-list{
+       display:none ;
+    }
+
+
+    #form{
+        width: 30rem;
+        /* background-color: black; */
+        height: 4rem;
+    }
+    
+    #search{
+        width: 100%;
+        height: 100%;
+        font-size: 1.5rem;
+        padding:  0.5rem;
+        border: 0px;
+        border-radius: .5rem;
+    }
+
+    /* navbar */
+
+
+
+
+    
+    /* main  */
+
+    #ten-cards-first{
+        width: 50%;
+    }
+
+
+
+
+#ten-cards-second{
+    width: 50%;
+}
+
+
+
+/* #ten-card-second-first-part{
+    height: 100rem;
+} */
+
+/* .body-parts{
+    height: 50rem;
+}
+.cleaning-img{
+    width: 63%;
+} */
+
+
+#ten-cards-third{
+    width: 100%;
+}
+
+    /* main  */
+
+
+/* html  */
+
+    
+}
+
+/* 768  */
+
+
+
+
+
+
+
+
+
+/* 600  */
+
+@media(max-width :768px){
+
+    /* html  */
+    
+    
+        html{
+            font-size: 18%;
+        }
+    
+    
+    
+        /* navbar  */
+    
+        /* #hamburger{
+            background-color: black;
+            color: red;
+            width: 10rem;
+            display: block;
+            position: absolute;
+            top: 3rem ;
+            right: 5rem;
+        } */
+    
+        #nav-list{
+           display:none ;
+        }
+    
+    
+        #form{
+            width: 30rem;
+            /* background-color: black; */
+            height: 4rem;
+        }
+        
+        #search{
+            width: 100%;
+            height: 100%;
+            font-size: 1.5rem;
+            padding:  0.5rem;
+            border: 0px;
+            border-radius: .5rem;
+        }
+    
+        /* navbar */
+    
+    /* html  */
+    
+
+    /* main  */
+
+
+.cleaning-img{
+    width: 43%;
+}
+    
+    /* main  */
+
+        
+    }
+    
+    /* 600  */
